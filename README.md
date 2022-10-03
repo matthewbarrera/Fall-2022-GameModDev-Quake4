@@ -1,4 +1,4 @@
-**ProjectMod_v1.0**
+#ProjectMod_v1.0
 
 ***Common Deliverables:***
 1. A Desktop Shortcut to automatically launch your mod.
@@ -28,3 +28,9 @@
   - No changes from base Quake 4.
 - README.md
   - A document explaining overarching goals and changes.
+
+*Note about the four files from ProjectMod_v1.0*
+
+*These files are stored in C:\Program Files (x86)\Steam\steamapps\common\Quake 4\ProjectMod*
+
+*All future files relating to the mod will likely be added to this folder location*
