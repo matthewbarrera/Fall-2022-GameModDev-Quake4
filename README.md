@@ -22,7 +22,7 @@
   - This is where all changes to the main menu are stored and later moved into pak025.pk4.
 - savegames (folder) > PulseDropMap.save & PulseDropMap.txt
   - This is the map I want the Open Map Button to access; Currently not being reached.
-- game0025.pk4
+- game025.pk4
   - The guis > mainmenu.gui has been modified.
 - GUI_InformationNotes.txt
   - Doesn't affect the game; just some notes on how the main menu GUI was changed.
