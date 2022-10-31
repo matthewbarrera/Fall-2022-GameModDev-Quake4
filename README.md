@@ -29,7 +29,7 @@
 - Quake 4 Shortcut
   - It's important that the files are stored in the proper location! "Target" and "Start In" depend on this.
 
-*Note about all of the files from ProjectMod_v2.0*
+*Note about all of the NEW files from ProjectMod_v2.0*
 
 *These files are stored in C:\Program Files (x86)\Steam\steamapps\common\Quake 4\ProjectMod*
 
