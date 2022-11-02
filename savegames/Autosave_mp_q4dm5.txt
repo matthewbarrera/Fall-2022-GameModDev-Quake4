@@ -1,0 +1,4 @@
+"Autosave mp/q4dm5"
+"^:Map Start	^0THE ROSE"
+"gfx/guis/loadscreens/q4dm5"
+nooverwrite
