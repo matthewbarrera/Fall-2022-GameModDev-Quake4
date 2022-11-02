@@ -1,0 +1,46 @@
+GUI Changes to Quake 4 Mod:
+*** This TXT file is just notes of the progress on the GUI ***
+
+p_btns:
+=======
+ o playmod_b_start --> loads the map
+ o playmod_b_help  --> loads the help screen
+ o playmod_b_back  --> goes back to main menu
+ o main_b_playmod  --> loads playmod screen
+
+p_mainmenu > p_main: (Done)
+====================
+ o main_b9        --> main menu button info
+ o main_b9_corner --> main menu button info
+ o main_t_b9      --> main menu button info
+
+p_mainmenu > p_playmod: (Done)
+=======================
+ o t_playmod_title   --> playmod title
+ o playmod_b1        --> start game button info
+ o playmod_b1_corner --> start game button info
+ o playmod_t_b1      --> start game button info
+
+ o playmod_b2        --> mod help button info
+ o playmod_b2_corner --> mod help button info
+ o playmod_t_b2      --> mod help button info
+
+ o playmod_back        --> back button info
+ o playmod_back_corner --> back button info
+ o playmod_t_back      --> back button info
+
+**playmod help instructions (WALL OF TEXT) --> Implemented in two text boxes!
+                                           --> Also implemented two buttons to go back/forward
+
+p_anims: (Done ~ Cases where stuff like mpCreate can cause main_b9 to reappear when it shouldn't)
+========
+ o anim_playModIn
+ o anim_playModOut
+ * Editted anim_mainIn
+ * Editted anim_mainOut
+ * Editted new,load,save,mp,settings,mods,credits,exit In and Out
+
+** Edge cases, some pages in main menu don't have proper animation interactions with playMod
+** These are typically the further back screens, like Multiplayer options
+
+******** map mp/q4dm5 *********

@@ -1,0 +1,34 @@
+Def Pak 21
+ > Powerups.def
+ o Ammo.def and Items.def don't have any unique changes
+
+Def Pak 22
+ o None of the *.defs have any unique changes
+ o HUD changes were to be implemented through the powerup system
+
+Guis Pak 19
+ o mphud.gui does not have any unique changes
+ o HUD changes were to be implemented through the powerup system
+
+Guis Pak 21
+ o hud.gui does not have any unique changes
+
+Guis Pak 25
+ > mainmenu.gui
+ o I kept an old copy of mainmenu.gui in the form of mainmenu-broken_notInUse.gui
+ o This code kept crashing my game, so I had to cut it
+
+Maps Pak 16
+ o q4dm5 does not have any unique changes
+ o The plan was to spawn my powerups on the map, but I was unable to find them in the map editor
+
+Models Pak 14
+ o There have been changes in this folder, but they aren't used in the final product
+ o I wanted to create unique versions of pre-existing models to represent the powerups
+ o These changes wouldn't work, so I scrapped the whole idea
+
+Models Pak 19
+ > Everything was created by me
+ > Very simple PNGs created and converted to TGAs to be a part of the HUD system
+ > Although the powerups don't work, when you use [spawn powerup_*NameHere], the icon does appear
+ > Although the icon does appear, it isn't persisting like quaddamage, something I tried to add
