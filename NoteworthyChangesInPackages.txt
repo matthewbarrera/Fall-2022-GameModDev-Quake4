@@ -1,3 +1,5 @@
+* pak016 and pak019 were not included in the GitHub FinalV because they are too large (43 and 100 MB respectively)
+
 Def Pak 21
  > Powerups.def
  o Ammo.def and Items.def don't have any unique changes
